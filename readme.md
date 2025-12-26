@@ -30,7 +30,7 @@ Student-depression/
 
 🔧 Clone and Set Up
 
-git clone https://github.com/tanishashekhawat32/Student-depression-prediction-project.git
+git clone https://github.com/tanisha-shekhawat32/Student-depression-prediction-project.git
 cd Student-depression-prediction-project
 
 📦 Create and Activate Virtual Environment
